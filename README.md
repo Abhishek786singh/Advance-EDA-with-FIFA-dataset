@@ -12,4 +12,4 @@ For this analysis we will be using the python pandas library, numpy, seaborn and
 
 The dataset contains 89 columns .
 
-![fifa_2](images/fifa_2.jpg)
+![fifa_2](Images/fifa_2.jpg)
